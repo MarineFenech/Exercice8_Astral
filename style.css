@@ -15,3 +15,7 @@
 .pagePrincipale {
     background-color: bisque;
 }
+
+.blockSansBordure {
+    border: none;
+}
